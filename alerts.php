@@ -3,7 +3,7 @@
 // https://api.rotahightech.com.br/
 // RotaHighTech© 2025 . Todos os direitos reservados.
 
-// Converte a url que contem '.php?tipo=' => 'Para a funcao JS' ---  assets/js/alertas.js
+// Converte a url que contem '.php?tipo=' => 'Para a funcao JS' ---  assets/js/alerts.js
 $parametros = [
     'mensagem' => 'Alerta',
     'aviso' => 'Informação',
